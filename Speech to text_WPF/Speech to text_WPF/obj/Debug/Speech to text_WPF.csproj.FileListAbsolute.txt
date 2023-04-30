@@ -1,0 +1,16 @@
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\bin\Debug\Speech to text_WPF.exe.config
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\bin\Debug\Speech to text_WPF.exe
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\bin\Debug\Speech to text_WPF.pdb
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\obj\Debug\Speech to text_WPF.csproj.AssemblyReference.cache
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\obj\Debug\Speech to text_WPF.csproj.SuggestedBindingRedirects.cache
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\obj\Debug\MainWindow.g.cs
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\obj\Debug\App.g.cs
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\obj\Debug\Speech to text_WPF_MarkupCompile.cache
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\obj\Debug\Speech to text_WPF_MarkupCompile.lref
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\obj\Debug\MainWindow.baml
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\obj\Debug\Speech to text_WPF.g.resources
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\obj\Debug\Speech_to_text_WPF.Properties.Resources.resources
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\obj\Debug\Speech to text_WPF.csproj.GenerateResource.cache
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\obj\Debug\Speech to text_WPF.csproj.CoreCompileInputs.cache
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\obj\Debug\Speech to text_WPF.exe
+E:\Lập trình WPF\Speech to text_WPF\Speech to text_WPF\obj\Debug\Speech to text_WPF.pdb
